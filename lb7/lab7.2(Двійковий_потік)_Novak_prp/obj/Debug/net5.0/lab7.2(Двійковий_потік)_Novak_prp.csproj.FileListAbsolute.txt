@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Новая папка (5)\lb7\lab7.2(Двійковий_потік)_Novak_prp\bin\Debug\net5.0\lab7.2(Двійковий_потік)_Novak_prp.exe
+C:\Users\user\Desktop\Новая папка (5)\lb7\lab7.2(Двійковий_потік)_Novak_prp\bin\Debug\net5.0\lab7.2(Двійковий_потік)_Novak_prp.deps.json
+C:\Users\user\Desktop\Новая папка (5)\lb7\lab7.2(Двійковий_потік)_Novak_prp\bin\Debug\net5.0\lab7.2(Двійковий_потік)_Novak_prp.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка (5)\lb7\lab7.2(Двійковий_потік)_Novak_prp\bin\Debug\net5.0\lab7.2(Двійковий_потік)_Novak_prp.runtimeconfig.dev.json
+C:\Users\user\Desktop\Новая папка (5)\lb7\lab7.2(Двійковий_потік)_Novak_prp\bin\Debug\net5.0\lab7.2(Двійковий_потік)_Novak_prp.dll
+C:\Users\user\Desktop\Новая папка (5)\lb7\lab7.2(Двійковий_потік)_Novak_prp\bin\Debug\net5.0\ref\lab7.2(Двійковий_потік)_Novak_prp.dll
+C:\Users\user\Desktop\Новая папка (5)\lb7\lab7.2(Двійковий_потік)_Novak_prp\bin\Debug\net5.0\lab7.2(Двійковий_потік)_Novak_prp.pdb
+C:\Users\user\Desktop\Новая папка (5)\lb7\lab7.2(Двійковий_потік)_Novak_prp\obj\Debug\net5.0\lab7.2(Двійковий_потік)_Novak_prp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка (5)\lb7\lab7.2(Двійковий_потік)_Novak_prp\obj\Debug\net5.0\lab7.2(Двійковий_потік)_Novak_prp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка (5)\lb7\lab7.2(Двійковий_потік)_Novak_prp\obj\Debug\net5.0\lab7.2(Двійковий_потік)_Novak_prp.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка (5)\lb7\lab7.2(Двійковий_потік)_Novak_prp\obj\Debug\net5.0\lab7.2(Двійковий_потік)_Novak_prp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (5)\lb7\lab7.2(Двійковий_потік)_Novak_prp\obj\Debug\net5.0\lab7.2(Двійковий_потік)_Novak_prp.dll
+C:\Users\user\Desktop\Новая папка (5)\lb7\lab7.2(Двійковий_потік)_Novak_prp\obj\Debug\net5.0\ref\lab7.2(Двійковий_потік)_Novak_prp.dll
+C:\Users\user\Desktop\Новая папка (5)\lb7\lab7.2(Двійковий_потік)_Novak_prp\obj\Debug\net5.0\lab7.2(Двійковий_потік)_Novak_prp.pdb
+C:\Users\user\Desktop\Новая папка (5)\lb7\lab7.2(Двійковий_потік)_Novak_prp\obj\Debug\net5.0\lab7.2(Двійковий_потік)_Novak_prp.genruntimeconfig.cache

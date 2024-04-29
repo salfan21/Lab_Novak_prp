@@ -1,0 +1,10 @@
+C:\Users\user\Desktop\Новая папка (5)\lb12\lab12_Novak_prp\obj\Debug\lab12_Novak_prp.csprojAssemblyReference.cache
+C:\Users\user\Desktop\Новая папка (5)\lb12\lab12_Novak_prp\obj\Debug\lab12_Novak_prp.MainForm.resources
+C:\Users\user\Desktop\Новая папка (5)\lb12\lab12_Novak_prp\obj\Debug\lab12_Novak_prp.Properties.Resources.resources
+C:\Users\user\Desktop\Новая папка (5)\lb12\lab12_Novak_prp\obj\Debug\lab12_Novak_prp.csproj.GenerateResource.cache
+C:\Users\user\Desktop\Новая папка (5)\lb12\lab12_Novak_prp\obj\Debug\lab12_Novak_prp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (5)\lb12\lab12_Novak_prp\bin\Debug\lab12_Novak_prp.exe.config
+C:\Users\user\Desktop\Новая папка (5)\lb12\lab12_Novak_prp\bin\Debug\lab12_Novak_prp.exe
+C:\Users\user\Desktop\Новая папка (5)\lb12\lab12_Novak_prp\bin\Debug\lab12_Novak_prp.pdb
+C:\Users\user\Desktop\Новая папка (5)\lb12\lab12_Novak_prp\obj\Debug\lab12_Novak_prp.exe
+C:\Users\user\Desktop\Новая папка (5)\lb12\lab12_Novak_prp\obj\Debug\lab12_Novak_prp.pdb

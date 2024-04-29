@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net5.0</TargetFramework>
+    <RootNamespace>lab7._2_Використання_символьного_потоку__Novak_prp</RootNamespace>
+  </PropertyGroup>
+
+</Project>

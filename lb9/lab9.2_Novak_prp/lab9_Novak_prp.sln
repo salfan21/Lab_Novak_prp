@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab9_Novak_prp", "lab9_Novak_prp.csproj", "{BCE205D8-133B-48B5-98B9-7AAEE06B8FB5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCE205D8-133B-48B5-98B9-7AAEE06B8FB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE205D8-133B-48B5-98B9-7AAEE06B8FB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE205D8-133B-48B5-98B9-7AAEE06B8FB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE205D8-133B-48B5-98B9-7AAEE06B8FB5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A3F91A0D-A7AF-47C9-88D5-5854C3FD891E}
+	EndGlobalSection
+EndGlobal

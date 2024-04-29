@@ -1,0 +1,16 @@
+C:\Users\user\Desktop\Новая папка (5)\lb6.1\lab6.1.3_Novak_prp\obj\Debug\net5.0\lab6.1.3_Novak_prp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Новая папка (5)\lb6.1\lab6.1.3_Novak_prp\obj\Debug\net5.0\lab6.1.3_Novak_prp.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Новая папка (5)\lb6.1\lab6.1.3_Novak_prp\obj\Debug\net5.0\lab6.1.3_Novak_prp.AssemblyInfo.cs
+C:\Users\user\Desktop\Новая папка (5)\lb6.1\lab6.1.3_Novak_prp\obj\Debug\net5.0\lab6.1.3_Novak_prp.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Новая папка (5)\lb6.1\lab6.1.3_Novak_prp\bin\Debug\net5.0\lab6.1.3_Novak_prp.exe
+C:\Users\user\Desktop\Новая папка (5)\lb6.1\lab6.1.3_Novak_prp\bin\Debug\net5.0\lab6.1.3_Novak_prp.deps.json
+C:\Users\user\Desktop\Новая папка (5)\lb6.1\lab6.1.3_Novak_prp\bin\Debug\net5.0\lab6.1.3_Novak_prp.runtimeconfig.json
+C:\Users\user\Desktop\Новая папка (5)\lb6.1\lab6.1.3_Novak_prp\bin\Debug\net5.0\lab6.1.3_Novak_prp.runtimeconfig.dev.json
+C:\Users\user\Desktop\Новая папка (5)\lb6.1\lab6.1.3_Novak_prp\bin\Debug\net5.0\lab6.1.3_Novak_prp.dll
+C:\Users\user\Desktop\Новая папка (5)\lb6.1\lab6.1.3_Novak_prp\bin\Debug\net5.0\ref\lab6.1.3_Novak_prp.dll
+C:\Users\user\Desktop\Новая папка (5)\lb6.1\lab6.1.3_Novak_prp\bin\Debug\net5.0\lab6.1.3_Novak_prp.pdb
+C:\Users\user\Desktop\Новая папка (5)\lb6.1\lab6.1.3_Novak_prp\obj\Debug\net5.0\lab6.1.3_Novak_prp.dll
+C:\Users\user\Desktop\Новая папка (5)\lb6.1\lab6.1.3_Novak_prp\obj\Debug\net5.0\ref\lab6.1.3_Novak_prp.dll
+C:\Users\user\Desktop\Новая папка (5)\lb6.1\lab6.1.3_Novak_prp\obj\Debug\net5.0\lab6.1.3_Novak_prp.pdb
+C:\Users\user\Desktop\Новая папка (5)\lb6.1\lab6.1.3_Novak_prp\obj\Debug\net5.0\lab6.1.3_Novak_prp.genruntimeconfig.cache
+C:\Users\user\Desktop\Новая папка (5)\lb6.1\lab6.1.3_Novak_prp\obj\Debug\net5.0\lab6.1.3_Novak_prp.csprojAssemblyReference.cache

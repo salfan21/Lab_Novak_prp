@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lab7.2(Байтовий_потік)_Novak_prp", "lab7.2(Байтовий_потік)_Novak_prp.csproj", "{40F6ECC1-2C5A-4D91-9B8A-68922932E57C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{40F6ECC1-2C5A-4D91-9B8A-68922932E57C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40F6ECC1-2C5A-4D91-9B8A-68922932E57C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40F6ECC1-2C5A-4D91-9B8A-68922932E57C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40F6ECC1-2C5A-4D91-9B8A-68922932E57C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {588D0B2B-D6DB-4D25-8AC4-63EB8D13860A}
+	EndGlobalSection
+EndGlobal
